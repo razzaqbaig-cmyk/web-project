@@ -1,0 +1,76 @@
+
+
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f4f8;
+    color: #222;
+}
+
+/* ID selector */
+#top {
+    background-color: #183153;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* Element selector */
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/* Class selector */
+.intro, .skills {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #cbd5e1;
+    border-radius: 8px;
+}
+
+/* Class selector */
+.highlight {
+    color: #0759a5;
+    font-weight: bold;
+}
+
+/* Element selector */
+h2 {
+    font-size: 24px;
+    color: #183153;
+}
+
+/* Element selector */
+img {
+    border: 3px solid #183153;
+    border-radius: 10px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #183153;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+/*Explanation for the Home Page
+
+/*<h1> defines the main heading.
+
+/*<p> creates a paragraph.
+
+/* <section> groups related content and is a block-level element.
+
+/*<span> is an inline element used to style part of a sentence.
+
+/*<img> displays a picture, while alt provides alternative text.
+
+/*<a> creates a hyperlink.
+
+/*#top is an ID selector, while .intro is a class selector.
+
+/*background-color, font-family, padding and border control the appearance of the page.
